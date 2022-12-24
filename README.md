@@ -6,7 +6,7 @@ Curso de JavaScript: manipulando o DOM
 | -------------  | --- |
 | :sparkles: Nome        | robotron-2000
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | 
+| :rocket: URL         | https://robotrom-2000-gamma.vercel.app/
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
